@@ -10,7 +10,7 @@ label{
 	
 	
 }
-h1{
+#deev{
     text-align: center;
 	padding:50px;
 	border: 15px double;
@@ -20,7 +20,7 @@ h1{
 }
 input{
 	text-align:center;
-	padding:5px;
+	padding:25px;
 	width:90%;
 	border:double 5px;
 	border-radius:5px;
@@ -70,7 +70,7 @@ header{
 		font-weight: bold;
 		
 	}
-	h1{
+	#deev{
 	    text-align: center;
 		padding:50px;
 		border: 15px double;
