@@ -8,6 +8,7 @@ body{
 label{
 	font-weight: bold;
 	
+	
 }
 h1{
     text-align: center;
@@ -15,6 +16,7 @@ h1{
 	border: 15px double;
 	border-radius:10px;\
 	margin:25px;
+	font-size:25px;
 	
 }
 input{
@@ -33,17 +35,17 @@ header{
 }
 #tphone{
 	margin:15px;
-	font-size:25px;
+
 
 }
 #bday{
 	margin:15px;
-	font-size:25px;
+
 	
 }
 #email{
 	margin:15px;
-	font-size:25px;
+	
 	
 }
 #butt{
@@ -75,6 +77,7 @@ header{
 		border: 15px double;
 		border-radius:10px;\
 		margin:25px;
+		font-size:15px;
 		
 	}
 	input{
