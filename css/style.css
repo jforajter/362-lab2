@@ -14,7 +14,7 @@
 		
 	}
 	label{
-		margin:50px;
+		font-weight: bold;
 		
 	}
 	h1{
@@ -36,8 +36,16 @@
 		padding:25px;
 	}
 	#tphone{
+		margin:15px;
+		
 	}
 	#bday{
+		margin:15px;
+		
+	}
+	#email{
+		margin:15px;
+		
 	}
 	#butt{
 		background-color:aquamarine;
