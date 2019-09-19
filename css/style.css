@@ -8,17 +8,23 @@
 @media only screen and (min-width: 768px){
 	
 	body{
-		text-align:center;
 		font-family:Lucida Console;
 		background-color:aquamarine;
+	
+		
+	}
+	label{
+		margin:50px;
+		
 	}
 	h1{
-		text-align:center;
+	    text-align: center;
 		padding:50px;
+		border: 15px double;
 		
 	}
 	input{
-		display: inline-block;
+
 		text-align:center;
 		padding:5px;
 		width:500px;
@@ -27,13 +33,16 @@
 	header{
 		text-align:center;
 		font-size:45px;
+		padding:25px;
 	}
 	#tphone{
-		padding:50px;
 	}
 	#bday{
-		padding:50px;
 	}
-	
+	#butt{
+		background-color:aquamarine;
+		border:5px double;
+		margin:15px;
+	}
 	
 }
