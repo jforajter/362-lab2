@@ -1,10 +1,65 @@
-@media only screen and (max-width:768px){
-	
-	
-	
+body{
+	font-family:Lucida Console;
+	background-color:red;
 	
 	
 }
+label{
+	font-weight: bold;
+	
+}
+h1{
+    text-align: center;
+	padding:50px;
+	border: 15px double;
+	border-radius:10px;\
+	margin:25px;
+	
+}
+input{
+	text-align:center;
+	padding:5px;
+	width:90%;
+	border:double 5px;
+	border-radius:5px;
+}
+
+header{
+	text-align:center;
+	font-size:45px;
+	padding:25px;
+	font-weight: bold;
+}
+#tphone{
+	margin:15px;
+	font-size:25px;
+
+}
+#bday{
+	margin:15px;
+	font-size:25px;
+	
+}
+#email{
+	margin:15px;
+	font-size:25px;
+	
+}
+#butt{
+	background-color:white;
+	border:5px double;
+	margin:25px;
+	font-weight: bold;
+	font-size:25px;
+	padding:25px;
+}
+#butt:hover{
+	background-color:aquamarine;
+}
+
+	
+	
+
 @media only screen and (min-width: 768px){
 	
 	body{
@@ -21,6 +76,8 @@
 	    text-align: center;
 		padding:50px;
 		border: 15px double;
+		border-radius:10px;\
+		margin:25px;
 		
 	}
 	input{
@@ -28,12 +85,15 @@
 		text-align:center;
 		padding:5px;
 		width:500px;
+		border:double 5px;
+		border-radius:5px;
 	}
 	
 	header{
 		text-align:center;
 		font-size:45px;
 		padding:25px;
+		font-weight: bold;
 	}
 	#tphone{
 		margin:15px;
@@ -50,7 +110,10 @@
 	#butt{
 		background-color:aquamarine;
 		border:5px double;
-		margin:15px;
+		margin:25px;
+		font-weight: bold;
 	}
-	
+	#butt:hover{
+		background-color:white;
+	}
 }
