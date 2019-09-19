@@ -14,10 +14,9 @@ h1{
     text-align: center;
 	padding:50px;
 	border: 15px double;
-	border-radius:10px;\
+	border-radius:10px;
 	margin:25px;
 	font-size:25px;
-	
 }
 input{
 	text-align:center;
@@ -75,13 +74,12 @@ header{
 	    text-align: center;
 		padding:50px;
 		border: 15px double;
-		border-radius:10px;\
+		border-radius:10px;
 		margin:25px;
 		font-size:15px;
 		
 	}
 	input{
-
 		text-align:center;
 		padding:5px;
 		width:500px;
